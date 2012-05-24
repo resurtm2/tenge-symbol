@@ -1,0 +1,40 @@
+@font-face{
+	font-family:VerdanaTenge;
+	font-weight:normal;
+	font-style:normal;
+	src:url(../fonts/verdana-tenge/verdanatenge-tenge.eot);
+	src:url(../fonts/verdana-tenge/verdanatenge-tenge.eot?) format('☺'),
+	url(../fonts/verdana-tenge/verdanatenge-tenge.woff) format('woff'),
+	url(../fonts/verdana-tenge/verdanatenge-tenge.ttf) format('truetype'),
+	url(../fonts/verdana-tenge/verdanatenge-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:VerdanaTenge;
+	font-weight:normal;
+	font-style:italic;
+	src:url(../fonts/verdana-tenge/verdanatenge-italic-tenge.eot);
+	src:url(../fonts/verdana-tenge/verdanatenge-italic-tenge.eot?) format('☺'),
+	url(../fonts/verdana-tenge/verdanatenge-italic-tenge.woff) format('woff'),
+	url(../fonts/verdana-tenge/verdanatenge-italic-tenge.ttf) format('truetype'),
+	url(../fonts/verdana-tenge/verdanatenge-italic-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:VerdanaTenge;
+	font-weight:bold;
+	font-style:normal;
+	src:url(../fonts/verdana-tenge/verdanatenge-bold-tenge.eot);
+	src:url(../fonts/verdana-tenge/verdanatenge-bold-tenge.eot?) format('☺'),
+	url(../fonts/verdana-tenge/verdanatenge-bold-tenge.woff) format('woff'),
+	url(../fonts/verdana-tenge/verdanatenge-bold-tenge.ttf) format('truetype'),
+	url(../fonts/verdana-tenge/verdanatenge-bold-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:VerdanaTenge;
+	font-weight:bold;
+	font-style:italic;
+	src:url(../fonts/verdana-tenge/verdanatenge-bolditalic-tenge.eot);
+	src:url(../fonts/verdana-tenge/verdanatenge-bolditalic-tenge.eot?) format('☺'),
+	url(../fonts/verdana-tenge/verdanatenge-bolditalic-tenge.woff) format('woff'),
+	url(../fonts/verdana-tenge/verdanatenge-bolditalic-tenge.ttf) format('truetype'),
+	url(../fonts/verdana-tenge/verdanatenge-bolditalic-tenge.svg#ArialTenge) format('svg');
+}

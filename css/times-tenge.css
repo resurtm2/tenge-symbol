@@ -1,0 +1,40 @@
+@font-face{
+	font-family:TimesTenge;
+	font-weight:normal;
+	font-style:normal;
+	src:url(../fonts/times-tenge/times-tenge.eot);
+	src:url(../fonts/times-tenge/times-tenge.eot?) format('☺'),
+	url(../fonts/times-tenge/times-tenge.woff) format('woff'),
+	url(../fonts/times-tenge/times-tenge.ttf) format('truetype'),
+	url(../fonts/times-tenge/times-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:TimesTenge;
+	font-weight:normal;
+	font-style:italic;
+	src:url(../fonts/times-tenge/timesi-tenge.eot);
+	src:url(../fonts/times-tenge/timesi-tenge.eot?) format('☺'),
+	url(../fonts/times-tenge/timesi-tenge.woff) format('woff'),
+	url(../fonts/times-tenge/timesi-tenge.ttf) format('truetype'),
+	url(../fonts/times-tenge/timesi-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:TimesTenge;
+	font-weight:bold;
+	font-style:normal;
+	src:url(../fonts/times-tenge/timesbd-tenge.eot);
+	src:url(../fonts/times-tenge/timesbd-tenge.eot?) format('☺'),
+	url(../fonts/times-tenge/timesbd-tenge.woff) format('woff'),
+	url(../fonts/times-tenge/timesbd-tenge.ttf) format('truetype'),
+	url(../fonts/times-tenge/timesbd-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:TimesTenge;
+	font-weight:bold;
+	font-style:italic;
+	src:url(../fonts/times-tenge/timesbi-tenge.eot);
+	src:url(../fonts/times-tenge/timesbi-tenge.eot?) format('☺'),
+	url(../fonts/times-tenge/timesbi-tenge.woff) format('woff'),
+	url(../fonts/times-tenge/timesbi-tenge.ttf) format('truetype'),
+	url(../fonts/times-tenge/timesbi-tenge.svg#ArialTenge) format('svg');
+}

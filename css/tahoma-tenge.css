@@ -1,0 +1,20 @@
+@font-face{
+	font-family:TahomaTenge;
+	font-weight:normal;
+	font-style:normal;
+	src:url(../fonts/tahoma-tenge/tahomatenge-tenge.eot);
+	src:url(../fonts/tahoma-tenge/tahomatenge-tenge.eot?) format('☺'),
+	url(../fonts/tahoma-tenge/tahomatenge-tenge.woff) format('woff'),
+	url(../fonts/tahoma-tenge/tahomatenge-tenge.ttf) format('truetype'),
+	url(../fonts/tahoma-tenge/tahomatenge-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:TahomaTenge;
+	font-weight:bold;
+	font-style:normal;
+	src:url(../fonts/tahoma-tenge/tahomatenge-bold-tenge.eot);
+	src:url(../fonts/tahoma-tenge/tahomatenge-bold-tenge.eot?) format('☺'),
+	url(../fonts/tahoma-tenge/tahomatenge-bold-tenge.woff) format('woff'),
+	url(../fonts/tahoma-tenge/tahomatenge-bold-tenge.ttf) format('truetype'),
+	url(../fonts/tahoma-tenge/tahomatenge-bold-tenge.svg#ArialTenge) format('svg');
+}

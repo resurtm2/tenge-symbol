@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata></metadata>
+<defs>
+<font id="ArialNarrowBoldItalic" horiz-adv-x="0" >
+<font-face units-per-em="2048" ascent="1638" descent="-410" />
+<missing-glyph horiz-adv-x="1024" />
+<glyph />
+<glyph horiz-adv-x="2048" />
+<glyph unicode=" "  horiz-adv-x="1024" />
+<glyph unicode="&#x09;" horiz-adv-x="1024" />
+<glyph unicode="&#xa0;" horiz-adv-x="1024" />
+<glyph unicode="." />
+<glyph unicode="&#x433;" />
+<glyph unicode="&#x442;" horiz-adv-x="1323" d="M147 813l43 248h955l-43 -248h-357l-137 -813h-241l137 813h-357zM217 1219l43 247h954l-43 -247h-954z" />
+<glyph unicode="&#xe000;" horiz-adv-x="500" d="M0 0z" />
+</font>
+</defs></svg> 

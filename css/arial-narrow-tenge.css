@@ -1,0 +1,40 @@
+@font-face{
+	font-family:ArialNarrowTenge;
+	font-weight:normal;
+	font-style:normal;
+	src:url(../fonts/arial-narrow-tenge/arialn-tenge.eot);
+	src:url(../fonts/arial-narrow-tenge/arialn-tenge.eot?) format('☺'),
+		url(../fonts/arial-narrow-tenge/arialn-tenge.woff) format('woff'),
+		url(../fonts/arial-narrow-tenge/arialn-tenge.ttf) format('truetype'),
+		url(../fonts/arial-narrow-tenge/arialn-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:ArialNarrowTenge;
+	font-weight:normal;
+	font-style:italic;
+	src:url(../fonts/arial-narrow-tenge/arialni-tenge.eot);
+	src:url(../fonts/arial-narrow-tenge/arialni-tenge.eot?) format('☺'),
+		url(../fonts/arial-narrow-tenge/arialni-tenge.woff) format('woff'),
+		url(../fonts/arial-narrow-tenge/arialni-tenge.ttf) format('truetype'),
+		url(../fonts/arial-narrow-tenge/arialni-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:ArialNarrowTenge;
+	font-weight:bold;
+	font-style:normal;
+	src:url(../fonts/arial-narrow-tenge/arialnb-tenge.eot);
+	src:url(../fonts/arial-narrow-tenge/arialnb-tenge.eot?) format('☺'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.woff) format('woff'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.ttf) format('truetype'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:ArialNarrowTenge;
+	font-weight:bold;
+	font-style:italic;
+	src:url(../fonts/arial-narrow-tenge/arialnbi-tenge.eot);
+	src:url(../fonts/arial-narrow-tenge/arialnbi-tenge.eot?) format('☺'),
+		url(../fonts/arial-narrow-tenge/arialnbi-tenge.woff) format('woff'),
+		url(../fonts/arial-narrow-tenge/arialnbi-tenge.ttf) format('truetype'),
+		url(../fonts/arial-narrow-tenge/arialnbi-tenge.svg#ArialTenge) format('svg');
+}

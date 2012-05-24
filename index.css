@@ -1,0 +1,62 @@
+.arial-narrow{
+	font-family: Arial Narrow,Arial,sans-serif;
+	font-stretch: condensed;
+}
+.arial{
+	font-family: Arial,sans-serif;
+}
+.georgia{
+	font-family: Georgia,serif;
+}
+.itc-officina-sans{
+	font-family: ITC Officina Sans,sans-serif;
+}
+.itc-officina-serif{
+	font-family: ITC Officina Sans,serif;
+}
+.tahoma{
+	font-family: Tahoma,sans-serif;
+}
+.times{
+	font-family: Times New Roman,serif;
+}
+.verdana{
+	font-family: Verdana,sans-serif;
+}
+
+strong,b{
+	font-weight: bold;
+}
+em,i{
+	font-style: italic;
+}
+
+.rows{
+	margin: 50px;
+}
+.rows .row{
+	height: 300px;
+}
+.rows .row .element{
+	float: left;
+	width: 25%;
+}
+
+.element.opaque{
+	opacity: 0.3;
+}
+.element h2{
+	font-size: 30px;
+	line-height: 34px;
+	margin: 60px 0 20px 0;
+	padding: 0;
+}
+.element h2:first-child{
+	margin-top: 20px;
+}
+.element p{
+	font-size: 28px;
+	line-height: 32px;
+	margin: 20px 0;
+	padding: 0;
+}

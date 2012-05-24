@@ -1,0 +1,40 @@
+@font-face{
+	font-family:GeorgiaTenge;
+	font-weight:normal;
+	font-style:normal;
+	src:url(../fonts/georgia-tenge/georgiatenge-tenge.eot);
+	src:url(../fonts/georgia-tenge/georgiatenge-tenge.eot?) format('☺'),
+	url(../fonts/georgia-tenge/georgiatenge-tenge.woff) format('woff'),
+	url(../fonts/georgia-tenge/georgiatenge-tenge.ttf) format('truetype'),
+	url(../fonts/georgia-tenge/georgiatenge-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:GeorgiaTenge;
+	font-weight:normal;
+	font-style:italic;
+	src:url(../fonts/georgia-tenge/georgiatenge-italic-tenge.eot);
+	src:url(../fonts/georgia-tenge/georgiatenge-italic-tenge.eot?) format('☺'),
+	url(../fonts/georgia-tenge/georgiatenge-italic-tenge.woff) format('woff'),
+	url(../fonts/georgia-tenge/georgiatenge-italic-tenge.ttf) format('truetype'),
+	url(../fonts/georgia-tenge/georgiatenge-italic-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:GeorgiaTenge;
+	font-weight:bold;
+	font-style:normal;
+	src:url(../fonts/georgia-tenge/georgiatenge-bold-tenge.eot);
+	src:url(../fonts/georgia-tenge/georgiatenge-bold-tenge.eot?) format('☺'),
+	url(../fonts/georgia-tenge/georgiatenge-bold-tenge.woff) format('woff'),
+	url(../fonts/georgia-tenge/georgiatenge-bold-tenge.ttf) format('truetype'),
+	url(../fonts/georgia-tenge/georgiatenge-bold-tenge.svg#ArialTenge) format('svg');
+}
+@font-face{
+	font-family:GeorgiaTenge;
+	font-weight:bold;
+	font-style:italic;
+	src:url(../fonts/georgia-tenge/georgiatenge-bolditalic-tenge.eot);
+	src:url(../fonts/georgia-tenge/georgiatenge-bolditalic-tenge.eot?) format('☺'),
+	url(../fonts/georgia-tenge/georgiatenge-bolditalic-tenge.woff) format('woff'),
+	url(../fonts/georgia-tenge/georgiatenge-bolditalic-tenge.ttf) format('truetype'),
+	url(../fonts/georgia-tenge/georgiatenge-bolditalic-tenge.svg#ArialTenge) format('svg');
+}

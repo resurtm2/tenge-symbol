@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata></metadata>
+<defs>
+<font id="GeorgiaTengeRegular" horiz-adv-x="0" >
+<font-face units-per-em="2048" ascent="1536" descent="-512" />
+<missing-glyph horiz-adv-x="500" />
+<glyph />
+<glyph horiz-adv-x="2048" />
+<glyph unicode="." />
+<glyph unicode="&#x433;" />
+<glyph unicode="&#x442;" horiz-adv-x="1476" d="M119 803v385h1237v-385h-70q-8 35 -31.5 85t-52.5 93q-31 47 -66.5 81t-68.5 40q-31 4 -78 6t-86 2h-59v-903q0 -35 14 -62q14 -29 49 -43q20 -6 76 -18q57 -12 90 -12v-72h-670v72q14 2 35 3t49 5q61 6 80 14q63 25 64 103v913h-58q-31 0 -76.5 -2t-88.5 -6 q-33 -4 -68 -40t-66 -81t-53 -95t-31 -83h-71zM119 1282v137h1237v-137h-1237z" />
+<glyph unicode="&#xe000;" horiz-adv-x="1024" d="M0 0z" />
+</font>
+</defs></svg> 
