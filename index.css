@@ -1,5 +1,5 @@
 .arial-narrow{
-	font-family: Arial Narrow,sans-serif;
+	font-family: Arial Narrow,Arial,sans-serif;
 	font-stretch: condensed;
 }
 .arial{
@@ -24,6 +24,34 @@
 	font-family: Verdana,sans-serif;
 }
 
-p{
-	font-size: 32px;
+strong,b{
+	font-weight: bold;
+}
+em,i{
+	font-style: italic;
+}
+
+.rows{
+	margin: 50px;
+}
+.rows .row{
+	height: 300px;
+}
+.rows .row .element{
+	float: left;
+	width: 25%;
+}
+
+.element h2{
+	font: 30px/34px sans-serif;
+	margin: 60px 0 20px 0;
+	padding: 0;
+}
+.element h2:first-child{
+	margin-top: 20px;
+}
+.element p{
+	font: 28px/32px sans-serif;
+	margin: 20px 0;
+	padding: 0;
 }

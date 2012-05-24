@@ -22,11 +22,11 @@
 	font-family:ArialNarrowTenge;
 	font-weight:bold;
 	font-style:normal;
-	src:url(../fonts/arial-narrow-tenge/arialnbd-tenge.eot);
-	src:url(../fonts/arial-narrow-tenge/arialnbd-tenge.eot?) format('☺'),
-		url(../fonts/arial-narrow-tenge/arialnbd-tenge.woff) format('woff'),
-		url(../fonts/arial-narrow-tenge/arialnbd-tenge.ttf) format('truetype'),
-		url(../fonts/arial-narrow-tenge/arialnbd-tenge.svg#ArialTenge) format('svg');
+	src:url(../fonts/arial-narrow-tenge/arialnb-tenge.eot);
+	src:url(../fonts/arial-narrow-tenge/arialnb-tenge.eot?) format('☺'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.woff) format('woff'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.ttf) format('truetype'),
+		url(../fonts/arial-narrow-tenge/arialnb-tenge.svg#ArialTenge) format('svg');
 }
 @font-face{
 	font-family:ArialNarrowTenge;
