@@ -42,6 +42,9 @@ em,i{
 	width: 25%;
 }
 
+.element.opaque{
+	opacity: 0.3;
+}
 .element h2{
 	font-size: 30px;
 	line-height: 34px;
