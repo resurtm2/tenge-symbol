@@ -1,0 +1,38 @@
+------------------------------------------------
+tenge.otf — символ тенге для популярных шрифтов
+------------------------------------------------
+
+Символы тенге для того или иного шрифта или начертания расположены в диапазоне букв латинского алфавита в верхнем и нижнем регистре. Причем в верхнем регистре находятся символы тенге для курсивных начертаний. Ниже приведена таблица соответствий. К примеру, чтобы набрать символ тенге обычным начертанием шрифта «Таймс», требуется выбрать шрифт «Tenge» и ввести строчную «p».
+
+a — arial regular
+A — arial italic
+b — arial bold
+B — arial bold italic
+c — arial black
+C — arial black italic
+d — arial narrow
+D — arial narrow italic
+e — arial narrow bold
+E — arial narrow bold italic
+f — georgia regular
+F — georgia italic
+g — georgia bold
+G — georgia bold italic
+h — tahoma regular
+i — tahoma bold
+j — itc officina serif book
+J — itc officina serif book italic
+k — itc officina serif bold
+K — itc officina serif bold italic
+l — itc officina sans book
+L — itc officina sans book italic
+m — itc officina sans bold
+M — itc officina sans bold italic
+n — verdana regular
+N — verdana italic
+o — verdana bold
+O — verdana bold italic
+p — times regular
+P — times italic
+q — times bold
+Q — times bold italic
