@@ -1,0 +1,29 @@
+.arial-narrow{
+	font-family: Arial Narrow,sans-serif;
+	font-stretch: condensed;
+}
+.arial{
+	font-family: Arial,sans-serif;
+}
+.georgia{
+	font-family: Georgia,serif;
+}
+.itc-officina-sans{
+	font-family: ITC Officina Sans,sans-serif;
+}
+.itc-officina-serif{
+	font-family: ITC Officina Sans,serif;
+}
+.tahoma{
+	font-family: Tahoma,sans-serif;
+}
+.times{
+	font-family: Times New Roman,serif;
+}
+.verdana{
+	font-family: Verdana,sans-serif;
+}
+
+p{
+	font-size: 32px;
+}
