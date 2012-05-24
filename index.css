@@ -43,7 +43,8 @@ em,i{
 }
 
 .element h2{
-	font: 30px/34px sans-serif;
+	font-size: 30px;
+	line-height: 34px;
 	margin: 60px 0 20px 0;
 	padding: 0;
 }
@@ -51,7 +52,8 @@ em,i{
 	margin-top: 20px;
 }
 .element p{
-	font: 28px/32px sans-serif;
+	font-size: 28px;
+	line-height: 32px;
 	margin: 20px 0;
 	padding: 0;
 }
