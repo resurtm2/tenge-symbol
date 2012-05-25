@@ -1,1 +1,1 @@
-README_RU.md
+readme_ru.txt
